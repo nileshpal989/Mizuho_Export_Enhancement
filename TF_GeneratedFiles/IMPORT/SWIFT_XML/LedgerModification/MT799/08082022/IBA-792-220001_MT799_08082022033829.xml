@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>799</MessageType>
+<Receiver>ABOCCNBJ150</Receiver>
+<TransactionReferenceNumber>IBA-792-220001</TransactionReferenceNumber>
+<RelatedReference>REF880978675</RelatedReference>
+<Narrative>HELLO THIS IS ,USD TRANSACTION FOR 799</Narrative>
+</reqMT>

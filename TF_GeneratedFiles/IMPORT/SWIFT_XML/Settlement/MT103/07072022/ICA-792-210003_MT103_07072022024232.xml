@@ -1,0 +1,28 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>103</MessageType>
+<Receiver>CHASUS33</Receiver>
+<SendersReference>ICA-792-210003</SendersReference>
+<TimeIndication></TimeIndication>
+<BankOperationCode>CRED</BankOperationCode>
+<InstructionCode></InstructionCode>
+<TransactionTypeCode></TransactionTypeCode>
+<ValueDate>220707JPY678456,</ValueDate>
+<CurrencyInstructedAmount></CurrencyInstructedAmount>
+<ExchangeRate>0,</ExchangeRate>
+<OrderingCustomerK>BHUPEN SINGH#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</OrderingCustomerK>
+<SendingInstitution></SendingInstitution>
+<OrderingInstitutionD>BHUPEN SINGH#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</OrderingInstitutionD>
+<SendersCorrespondentD>BHUPEN SINGH#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</SendersCorrespondentD>
+<ReceiversCorrespondentD>LMCC#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</ReceiversCorrespondentD>
+<ThirdReimbursementD>BHUPEN SINGH#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</ThirdReimbursementD>
+<IntermediaryInstitutionD>BHUPEN SINGH#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</IntermediaryInstitutionD>
+<AccountWithInstitutionD>LMCC#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</AccountWithInstitutionD>
+<BeneficiaryCustomer>LMCC#GALA NO 54,#ANDHERI EAST#MUMBAI-400001, INDIA</BeneficiaryCustomer>
+<RemittanceInformation></RemittanceInformation>
+<DetailsofCharges>OUR</DetailsofCharges>
+<SendersCharges>0,</SendersCharges>
+<ReceiversCharges></ReceiversCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<RegulatoryReporting></RegulatoryReporting>
+</reqMT>

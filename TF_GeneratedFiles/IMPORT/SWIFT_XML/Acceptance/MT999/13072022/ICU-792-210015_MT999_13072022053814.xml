@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>999</MessageType>
+<Receiver>ABNANL2R</Receiver>
+<TransactionReferenceNumber>ICU-792-210015</TransactionReferenceNumber>
+<RelatedReference>GJMNBVC</RelatedReference>
+<Narrative>KIND ATTN: TRADE FINANCE DEPT. KINDLY TREAT THIS MESSAGE AS MT 412, AS WE DO NOT HAVE DIRECT RMA WITH YOUR GOOD BANK. DETAILS OF MESSAGE GIVEN BELOW. 20: ICU-792-210015 21: GJMNBVC 32A: 22-06-08 AED 442.00</Narrative>
+</reqMT>

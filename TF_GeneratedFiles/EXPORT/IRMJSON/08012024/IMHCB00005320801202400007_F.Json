@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005320801202400007",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/038845",
+      "irmIssueDate":"08012024",
+      "irmNumber":"ITT/792/038845",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"05012024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 54339.84,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"BIG LOTS STORES, INC.",
+      "remitterCountry":"US",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00007161604202400002",
+  "irmList": [
+    {
+      "bankRefNumber":"BCU/716/300001",
+      "irmIssueDate":"16042024",
+      "irmNumber":"BCU/716/300001",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000716",
+      "remittanceAdCode":"6770003",
+      "remittanceDate":"16042024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 3781.00,
+      "inrCreditAmount": 3781.00,
+      "iecCode":"0788001108",
+      "panNumber":"AACCK4472B",
+      "remitterName":"GLOBAL ENTERPRISE CO.",
+      "remitterCountry":"HK",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":"H10716000963"
+    }
+  ]
+}

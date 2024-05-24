@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>799</MessageType>
+<Receiver>ABOCCNBJ</Receiver>
+<TransactionReferenceNumber>ICA-792-190036</TransactionReferenceNumber>
+<RelatedReference>77656543</RelatedReference>
+<Narrative>HELLO ,THIS IS INR TRANSACTION,FOR ICA 799</Narrative>
+</reqMT>

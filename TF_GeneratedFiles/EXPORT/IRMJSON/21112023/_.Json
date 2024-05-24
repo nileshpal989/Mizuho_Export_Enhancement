@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"",
+  "irmList": [
+    {
+      "bankRefNumber":"",
+      "irmIssueDate":"07102023",
+      "irmNumber":"BLA/792/235038",
+      "irmStatus":"",
+      "ifscCode":"",
+      "remittanceAdCode":"",
+      "remittanceDate":"07102023",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 33357.93,
+      "inrCreditAmount": 2668634.00,
+      "iecCode":"",
+      "panNumber":"",
+      "remitterName":"GREENBRIER INTERNATIONAL INC.",
+      "remitterCountry":"US",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":""
+    }
+  ]
+}

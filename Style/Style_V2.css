@@ -1,0 +1,836 @@
+﻿body
+{
+    background-color: white;
+    margin: 0 auto;
+    font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+    text-align: center;
+    height: 100%;
+}
+
+#sddm
+{
+    margin: 0;
+    padding: 0;
+    z-index: 30;
+}
+
+#sddm li
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+    font: bold 11px arial;
+}
+
+#sddm li a
+{
+    display: block;
+    margin: 0 1px 0 0;
+    padding: 4px 10px;
+    width: 120px;
+    background: #5970B2;
+    color: #FFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+#sddm li a:hover
+{
+    background: #49A3FF;
+}
+
+#sddm div
+{
+    position: absolute;
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+    background: #EAEBD8;
+    border: 1px solid #5970B2;
+}
+
+#sddm div a
+{
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 5px 10px;
+    width: auto;
+    white-space: nowrap;
+    text-align: left;
+    text-decoration: none;
+    background: #EAEBD8;
+    color: #2875DE;
+    font: 11px arial;
+}
+
+#sddm div a:hover
+{
+    background: #49A3FF;
+    color: #FFF;
+}
+
+h2
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    color: Navy;
+    background-color: Transparent;
+    border: 0;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.buttonDefault
+{
+    border-radius: 4px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    margin: 0 1px 0 0;
+    padding: 5px 10px;
+    width: 100px;
+    background: #0099cc;
+    color: #FFF;
+    text-align: center;
+    text-decoration: none;
+    border: 0;
+    cursor: pointer;
+    font-size: 11px;
+}
+
+.buttonDefault:hover
+{
+    background: #FF9900;
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    box-shadow: 0 0 8px #FF9900; /*-webkit-transform: scale(1.1); /* Chrome */ /*transform: scale(1.1);*/
+}
+
+.buttonDefault:focus
+{
+    background: #FF9900;
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    box-shadow: 0 0 8px #FF9900;
+}
+
+.buttonCopy
+{
+    margin: 1;
+    padding: 2px;
+    width: 60px;
+    background: #098BF7;
+    color: #FFF;
+    text-align: center;
+    text-decoration: none;
+    border: 0;
+    cursor: pointer;
+    font-size: 11px;
+}
+
+.buttonCopy:hover
+{
+    background: #FF9900;
+}
+
+.buttonCopy:focus
+{
+    background: #FF9900;
+}
+
+.btnlookup_Folder
+{
+    background-image: url(../Images/Folder_on.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: Transparent;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    border: 0;
+    vertical-align: bottom;
+}
+
+.pageLabel
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    color: Navy;
+    background-color: Transparent;
+    border: 0;
+    font-weight: normal;
+    font-size: 10pt;
+}
+/*.elementLabel
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: Verdana, Sans-Serif, Arial;
+    color: Navy;
+    background-color: Transparent;
+    font-weight: normal;
+    font-size: 8pt;
+    margin-top: 0px;
+}*/
+
+.elementLabel
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: Verdana, Sans-Serif, Arial;
+    color: Navy;
+    background-color: Transparent;
+    font-weight: normal;
+    font-size: 8pt;
+    margin-top: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+}
+
+.elementLink
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: Verdana, Sans-Serif, Arial;
+    color: Navy;
+    background-color: Transparent;
+    font-weight: normal;
+    font-size: 8pt;
+    margin-top: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+}
+
+.elementLink:hover
+{
+    color: #ff9900;
+}
+
+.elementTable
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    color: #000000;
+    background-color: #D9E9FD;
+    border: 0.1px none #000000;
+    font-weight: normal;
+    font-size: 8pt;
+}
+
+.columnHeader
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.textBox
+{
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border: 1px solid #0099cc;
+    outline: none; /*color: #F072A9;*/
+    padding: 2px 6px 2px 6px;
+    box-shadow: inset 1px 1px 4px #FFD5E7;
+    -moz-box-shadow: inset 1px 1px 4px #FFD5E7; /*Mozilla FireFox*/
+    -webkit-box-shadow: inset 1px 1px 4px #FFD5E7; /*Chrome*/ /* background: #FFEFF6;  */
+    height: 20px;
+    vertical-align: baseline;
+    font-size: 9pt;
+}
+
+.textBox:disabled
+{
+    background-color: #e6e6e6;
+}
+
+.textBox:focus
+{
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    box-shadow: 0 0 8px #FF9900;
+    border: 1px solid #FF9900;
+}
+
+.txtenabled
+{
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border: 1px solid #0099cc;
+    outline: none; /*color: #F072A9;*/
+    padding: 2px 6px 2px 6px;
+    box-shadow: inset 1px 1px 4px #FFD5E7;
+    -moz-box-shadow: inset 1px 1px 4px #FFD5E7; /*Mozilla FireFox*/
+    -webkit-box-shadow: inset 1px 1px 4px #FFD5E7; /*Chrome*/ /* background: #FFEFF6;  */
+    height: 17px;
+    vertical-align: baseline;
+    font-size: 9pt;
+}
+
+.txtenabled:disabled
+{
+    background-color: #e6e6e6;
+}
+
+.txtenabled:focus
+{
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    box-shadow: 0 0 8px #FF9900;
+    border: 1px solid #FF9900;
+}
+
+
+.textBoxRight
+{
+    text-align: right;
+    background-color: White;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: normal;
+    font-size: 8pt;
+    border: 1px solid #5970B2;
+}
+
+.txtdisabled
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: normal;
+    font-size: 8pt;
+    border: 1px solid #66CCFF;
+    color: black;
+    background-color: #EBEBEB;
+}
+
+.txtForwardContract
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: bold;
+    font-size: 8pt;
+    border: 1px solid #66CCFF;
+    color: black;
+    background-color: #ffff99;
+}
+
+/*This Is used is menu countdown label because of padding */
+/*That is why mandatoryField1 created with padding so it can be used in other than menu controls */
+.mandatoryField
+{
+    color: Red;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: normal;
+    font-size: 8pt;
+}
+
+
+.head
+{
+    color: #5970B2;
+    width: 100%;
+    display: block;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: bold;
+    font-size: 12pt;
+    padding-bottom: 5px;
+}
+
+
+
+
+.deleteButton
+{
+    background-color: transparent;
+    color: Navy;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-size: 11px;
+    width: 50px;
+    border: 0;
+    cursor: pointer;
+}
+
+.deleteButton:hover
+{
+    color: Orange;
+    text-decoration: underline;
+}
+
+.deleteButtonDisabled
+{
+    background-color: transparent;
+    color: #CCCCCC;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-size: 11px;
+    width: 50px;
+    border: 0;
+    cursor: default;
+}
+
+.dropdownList
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    font-size: 11px;
+    font-weight: normal;
+    color: #000000;
+    height: 20px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border: 1px solid #0099cc;
+    outline: none; /*color: #F072A9;*/
+    padding: 2px 2px 2px 6px;
+    box-shadow: inset 1px 1px 4px #FFD5E7;
+    -moz-box-shadow: inset 1px 1px 4px #FFD5E7; /*Mozilla FireFox*/
+    -webkit-box-shadow: inset 1px 1px 4px #FFD5E7; /*Chrome*/ /* background: #FFEFF6;  */
+}
+
+.dropdownList:disabled
+{
+    background-color: #e6e6e6;
+}
+.dropdownList:focus
+{
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    box-shadow: 0 0 8px #FF9900;
+    border: 1px solid #FF9900;
+}
+
+
+.pagingButton
+{
+    background-color: Transparent;
+    color: Navy;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-size: 11px;
+    width: 50px;
+    border: 0;
+    cursor: pointer;
+}
+
+.pagingButton:hover
+{
+    color: Orange;
+    text-decoration: underline;
+}
+
+.pagingButtonDisabled
+{
+    background-color: Transparent;
+    color: #CCCCCC;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-size: 11px;
+    width: 50px;
+    border: 0;
+    cursor: default;
+}
+
+.btncalendar_enabled
+{
+    background-image: url(../images/calendar.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #253556;
+    width: 16px;
+    height: 15px;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: hand;
+    border: 0;
+    vertical-align: middle;
+}
+
+.btncalendar_enabled:hover
+{
+    /*-moz-box-shadow: 0 0 8px #FF9900;     -webkit-box-shadow: 0 0 8px #FF9900;     box-shadow: 0 0 8px #FF9900;*/
+    -webkit-transform: scale(1.2); /* Chrome */
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.btnHelp_enabled
+{
+    background-image: url(images/question.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 16px;
+    height: 16px;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: hand;
+    border: 0;
+    vertical-align: middle;
+    background-color: Transparent;
+}
+
+.btnHelp_enabled:hover
+{
+    /*-moz-box-shadow: 0 0 8px #FF9900;     -webkit-box-shadow: 0 0 8px #FF9900;     box-shadow: 0 0 8px #FF9900;*/
+    box-shadow: 0 0 8px #FF9900;
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    -o-box-shadow: 0 0 8px #FF9900;
+    border-radius: 100px; /*-webkit-transform: scale(1.2); /* Chrome */ /*-ms-transform: scale(1.2);*/
+    cursor: pointer;
+    z-index: -1;
+}
+
+.btnHelp_enabled:focus
+{
+    /*-moz-box-shadow: 0 0 8px #FF9900;     -webkit-box-shadow: 0 0 8px #FF9900;     box-shadow: 0 0 8px #FF9900;*/
+    box-shadow: 0 0 8px #FF9900;
+    -moz-box-shadow: 0 0 8px #FF9900;
+    -webkit-box-shadow: 0 0 8px #FF9900;
+    -o-box-shadow: 0 0 8px #FF9900;
+    border-radius: 100px; /*-webkit-transform: scale(1.2); /* Chrome */ /*-ms-transform: scale(1.2);*/
+    cursor: pointer;
+    z-index: -1;
+}
+
+.btnCloseMe
+{
+    background-image: url(../Images/Close.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: transparent;
+    color: #333333;
+    height: 20px;
+    width: 20px;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    border: 0;
+    vertical-align: middle;
+}
+
+.progressimageposition
+{
+    position: absolute;
+    z-index: 1001;
+    background-color: Transparent;
+}
+
+.progressBackground
+{
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+    padding: 0;
+    margin: 0; /* Replace this text with the line below */
+    background-color: #000000;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+}
+
+.signout_bt
+{
+    background-image: url(images/icon_logout.png);
+    width: 88px;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+    font-size: 11px;
+    color: #1c4880;
+    position: relative;
+    padding: 0;
+    float: right;
+}
+
+.btnGO
+{
+    background-image: url(../Images/search-btn1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: transparent;
+    color: #333333;
+    height: 22px;
+    width: 79px;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    border: 0;
+    vertical-align: middle;
+}
+
+.focus
+{
+    border: 1px solid #AA88FF;
+    background-color: #FFEEAA;
+}
+
+.textBoxRightfocus
+{
+    border: 1px solid #AA88FF;
+    background-color: #FFEEAA;
+    text-align: right;
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: normal;
+}
+
+hr
+{
+    border: 1px groove #CCFFFF;
+}
+
+
+
+/*GridView Style New*/
+
+.GridView
+{
+    font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 0;
+    width: 100%;
+    margin: 5px 0px 0px 0px;
+}
+
+.GridView > tbody > tr > th
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #0099cc;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 3px;
+    border-radius: 4px;
+    cursor: default;
+    font-size: 9pt;
+    font-weight: bold;
+}
+
+.GridView > tbody > tr > td
+{
+    border: 1px solid #ddd;
+    padding: 2px;
+    border-radius: 8px;
+    font-size: 9pt;
+}
+
+
+
+.GridView > tbody > tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
+
+.GridView > tbody > tr:nth-child(odd)
+{
+    background-color: White;
+}
+
+.GridView > tbody > tr:hover
+{
+    background-color: #d9d9d9;
+    cursor: pointer;
+}
+
+.GridView .deleteButton
+{
+    background-color: transparent;
+    color: Navy;
+    font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+    font-size: 11px;
+    width: 50px;
+    border: 0;
+    cursor: pointer;
+}
+
+.GridView .deleteButton:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+
+.gridHeader
+{
+    background-color: #d9d9d9;
+    height: 23px;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: normal;
+    color: #1a60a6;
+    cursor: default;
+    width: 100%;
+    overflow: auto;
+}
+
+.gridFooter
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #0099cc;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 3px;
+    border-radius: 4px;
+    cursor: default;
+    font-size: 9pt;
+    font-weight: bold;
+    overflow: auto;
+}
+/*GridView Pager Style New*/
+
+
+.Pager span
+{
+    color: Navy;
+    background-color: #F7F7F7;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    width: 20px;
+    margin-right: 3px;
+    line-height: 150%;
+    border: 1px solid #ccc;
+}
+
+.Pager a
+{
+    text-align: center;
+    display: inline-block;
+    width: 20px;
+    border: 1px solid #ccc;
+    color: #fff;
+    color: Navy;
+    margin-right: 3px;
+    line-height: 150%;
+    text-decoration: none;
+}
+
+.Pager a:hover
+{
+    background-color: white;
+}
+
+.highlight
+{
+    background-color: #FFFFAF;
+}
+
+.AlgRgh
+{
+    font-family: Verdana, Sans-Serif, Arial;
+    font-weight: normal;
+    font-size: 8pt;
+    border: 1px solid #5970B2;
+    text-align: right;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.checkboxes
+{
+    padding-top: 4px;
+    display: inline-block;
+}
+
+/*DashBoardGridView Style New*/
+
+.DashBoardGridView
+{
+    font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 0;
+    width: 100%;
+    margin: 5px 0px 0px 0px;
+}
+
+.DashBoardGridView > tbody > tr > th
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #0099cc;
+    color: white;
+    border: 1px solid #ddd;
+    padding: 3px;
+    cursor: default;
+    font-size: 9pt;
+    font-weight: bold;
+}
+
+.DashBoardGridView > tbody > tr > td
+{
+    border: 1px solid #ddd;
+    padding: 2px;
+    font-size: 9pt;
+}
+
+
+
+.DashBoardGridView > tbody > tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
+
+.DashBoardGridView > tbody > tr:nth-child(odd)
+{
+    background-color: White;
+}
+
+.DashBoardGridView > tbody > tr:hover
+{
+    background-color: #d9d9d9;
+    cursor: pointer;
+}
+
+.DashBoardGridView .deleteButton
+{
+    background-color: transparent;
+    color: Navy;
+    font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+    font-size: 11px;
+    width: 50px;
+    border: 0;
+    cursor: pointer;
+}
+
+.DashBoardGridView .deleteButton:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+
+.DashBoardgridHeader
+{
+    background-color: #d9d9d9;
+    height: 23px;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: normal;
+    color: #1a60a6;
+    cursor: default;
+    width: 100%;
+    overflow: auto;
+}
+
+.DashBoardgridFooter
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #d9d9d9;
+    border: 1px solid #ddd;
+    padding: 3px;
+    cursor: default;
+    font-size: 9pt;
+    font-weight: bold;
+    overflow: auto;
+}

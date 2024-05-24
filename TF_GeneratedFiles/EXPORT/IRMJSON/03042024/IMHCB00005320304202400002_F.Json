@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005320304202400002",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/231117",
+      "irmIssueDate":"03042024",
+      "irmNumber":"ITT/792/231117",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"16032024",
+      "remittanceFCC":"EUR",
+      "remittanceFCAmount": 350.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"MCQUAY AIR CONDITIONING AND REFRIGERATION WUHAN CO LTD",
+      "remitterCountry":"CN",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

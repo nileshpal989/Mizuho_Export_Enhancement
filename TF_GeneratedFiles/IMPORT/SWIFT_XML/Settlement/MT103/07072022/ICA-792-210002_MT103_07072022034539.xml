@@ -1,0 +1,28 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>103</MessageType>
+<Receiver>CHASUS33</Receiver>
+<SendersReference>ICA-792-210002</SendersReference>
+<TimeIndication></TimeIndication>
+<BankOperationCode>CRED</BankOperationCode>
+<InstructionCode></InstructionCode>
+<TransactionTypeCode></TransactionTypeCode>
+<ValueDate>220707USD456345,87</ValueDate>
+<CurrencyInstructedAmount></CurrencyInstructedAmount>
+<ExchangeRate></ExchangeRate>
+<OrderingCustomerK>/H10792102804#TASTY BITES EATABLES LIMITED#201-202, MAYFAIR TOWERS,WAKDEWADI,#SHIVAJINAGAR, PUNE-411 005.</OrderingCustomerK>
+<SendingInstitution></SendingInstitution>
+<OrderingInstitutionA></OrderingInstitutionA>
+<SendersCorrespondentA></SendersCorrespondentA>
+<ReceiversCorrespondentA></ReceiversCorrespondentA>
+<ThirdReimbursementA></ThirdReimbursementA>
+<IntermediaryInstitutionA></IntermediaryInstitutionA>
+<AccountWithInstitutionA>MHCBGB2L</AccountWithInstitutionA>
+<BeneficiaryCustomerF>/F10-768-158017#1/KAGA FEI ELECTRONICS#2/PACIFIC ASIA LIMITED#3/TH/UNIT 4607-15, 46/F, TOWER I#3/METRO 223, HING FONG RD., N.T</BeneficiaryCustomerF>
+<RemittanceInformation>/BNF/IMPORT BILL SETTLEMENT#//INVOICE NO.INV745230</RemittanceInformation>
+<DetailsofCharges>OUR</DetailsofCharges>
+<SendersCharges></SendersCharges>
+<ReceiversCharges></ReceiversCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<RegulatoryReporting></RegulatoryReporting>
+</reqMT>

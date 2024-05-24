@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005322105202400003",
+  "irmList": [
+    {
+      "bankRefNumber":"BLU/792/300042",
+      "irmIssueDate":"21052024",
+      "irmNumber":"BLU/792/300042",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"21052024",
+      "remittanceFCC":"JPY",
+      "remittanceFCAmount": 35000.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"",
+      "panNumber":"",
+      "remitterName":"anand",
+      "remitterCountry":"IN",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":""
+    }
+  ]
+}

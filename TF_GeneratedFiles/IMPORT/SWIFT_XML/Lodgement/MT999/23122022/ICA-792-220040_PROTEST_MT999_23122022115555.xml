@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>999</MessageType>
+<Receiver>ABOCCNBJ150</Receiver>
+<TransactionReferenceNumber>ICA-792-220040</TransactionReferenceNumber>
+<RelatedReference>REF98765789</RelatedReference>
+<Narrative>KIND ATTN:TRADE FINANCE DEPT, KINDLY TREAT THIS MESSAGE AS MT 499,AS WE DO NOT HAVE RMA WITH YOUR GOOD BANK. WE REFER TO YOUR COLLECTION INSTRUCTION, KINDLY NOTE THAT WE ARE NOT RESPONSIBLE TO PROTEST IN CASE OF NON-PAYMENT OR NON-ACCEPTANCE. PLEASE NOTE AND UPDATE YOUR RECORDS ACCORDINGLY. REGARDS,,MIZUHO BANK LTD MUMBAI</Narrative>
+</reqMT>

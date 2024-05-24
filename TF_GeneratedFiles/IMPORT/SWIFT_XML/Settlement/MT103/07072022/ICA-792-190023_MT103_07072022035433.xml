@@ -1,0 +1,28 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>103</MessageType>
+<Receiver>MHCBJPJT</Receiver>
+<SendersReference>ICA-792-190023</SendersReference>
+<TimeIndication></TimeIndication>
+<BankOperationCode>CRED</BankOperationCode>
+<InstructionCode></InstructionCode>
+<TransactionTypeCode></TransactionTypeCode>
+<ValueDate>220707JPY11120,</ValueDate>
+<CurrencyInstructedAmount>JPY8000,</CurrencyInstructedAmount>
+<ExchangeRate></ExchangeRate>
+<OrderingCustomerK>/H10793400286#TOYO INK INDIA PVT LTD#PLOT 17,ECOTECH III(UDYOG KENDRA)GR#REATERNOIDA,DISTT GAUTAM BUDH NAGAR</OrderingCustomerK>
+<SendingInstitution></SendingInstitution>
+<OrderingInstitutionA></OrderingInstitutionA>
+<SendersCorrespondentD>/F30-792-000014#J.P MORGAN CHASE#NEW YORK, MEDISON#USA</SendersCorrespondentD>
+<ReceiversCorrespondentD>/320898-1234-201#BANK OF CHINA CO LTD#SHANGHAI HEAD OFFICE#GHATKOPAR CHAIRAHA#SHANGHAI</ReceiversCorrespondentD>
+<ThirdReimbursementA></ThirdReimbursementA>
+<IntermediaryInstitutionA></IntermediaryInstitutionA>
+<AccountWithInstitutionA></AccountWithInstitutionA>
+<BeneficiaryCustomerA>BKCHCNBJ300</BeneficiaryCustomerA>
+<RemittanceInformation>/BNF/IMPORT BILL SETTLEMENT#//INVOICE NO.INV9854120</RemittanceInformation>
+<DetailsofCharges>OUR</DetailsofCharges>
+<SendersCharges></SendersCharges>
+<ReceiversCharges>JPY8000,</ReceiversCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<RegulatoryReporting></RegulatoryReporting>
+</reqMT>

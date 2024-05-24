@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bank>
+<checkSum>
+<noOfIrm>2</noOfIrm>
+</checkSum>
+<remittances>
+<remittance>
+<IRMNumber>ITT792038443</IRMNumber>
+<remittanceAmount>31419.0000</remittanceAmount>
+<remittanceDate>22/12/2023</remittanceDate>
+<adCode>6770001</adCode>
+<fircFlag>N</fircFlag>
+<fircNumber></fircNumber>
+<fircIssueDate></fircIssueDate>
+<fircAmount></fircAmount>
+<currency>GBP</currency>
+<ieCode>0913023256</ieCode>
+<ieName>TOSHIBA TRANSMISSION AND DISTRIBUTION SY</ieName>
+<remitterName>WILSON POWER SOLUTION LIMITED</remitterName>
+<remitterAddress></remitterAddress>
+<remitterCountry>GB</remitterCountry>
+<remitterBankName>LLOYDS TSB BANK PLC                  LONDON  HEAD OFFICE </remitterBankName>
+<remitterBankCountry>GB</remitterBankCountry>
+<swiftOtherBankRefNumber>LOYDGB2L</swiftOtherBankRefNumber>
+<purposeOfRemittance>P0103</purposeOfRemittance>
+<recordIndicator>1</recordIndicator>
+<remarks></remarks>
+</remittance>
+<remittance>
+<IRMNumber>ITT792053653</IRMNumber>
+<remittanceAmount>96896.3000</remittanceAmount>
+<remittanceDate>22/12/2023</remittanceDate>
+<adCode>6770001</adCode>
+<fircFlag>N</fircFlag>
+<fircNumber></fircNumber>
+<fircIssueDate></fircIssueDate>
+<fircAmount></fircAmount>
+<currency>GBP</currency>
+<ieCode>0913023256</ieCode>
+<ieName>TOSHIBA TRANSMISSION AND DISTRIBUTION SY</ieName>
+<remitterName>UK POWER NETWORKS (OPERATIONS) LTD</remitterName>
+<remitterAddress></remitterAddress>
+<remitterCountry>GB</remitterCountry>
+<remitterBankName>MIZUHO BANK LTD   LONDON BRANCH</remitterBankName>
+<remitterBankCountry>GB</remitterBankCountry>
+<swiftOtherBankRefNumber>MHCBGB2L</swiftOtherBankRefNumber>
+<purposeOfRemittance>P0103</purposeOfRemittance>
+<recordIndicator>1</recordIndicator>
+<remarks></remarks>
+</remittance>
+</remittances>
+</bank>

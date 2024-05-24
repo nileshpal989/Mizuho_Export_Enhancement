@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005320801202400008",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/034274",
+      "irmIssueDate":"08012024",
+      "irmNumber":"ITT/792/034274",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"05012024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 80000.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"ACCESORIOS PARA COMPUTADORAS Y OFICIANAS SA",
+      "remitterCountry":"HN",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

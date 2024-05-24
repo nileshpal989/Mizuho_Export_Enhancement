@@ -1,0 +1,16 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>742</MessageType>
+<Receiver>CHEMDEFF</Receiver>
+<ClaimingBanksReference>CL934372</ClaimingBanksReference>
+<DocumentaryCreditNumber>IMP 693/70224</DocumentaryCreditNumber>
+<DateofIssue>210303</DateofIssue>
+<IssuingBankA>CHEMUS33</IssuingBankA>
+<PrincipalAmountClaimed>EUR95000,</PrincipalAmountClaimed>
+<AdditionalAmtClaimed></AdditionalAmtClaimed>
+<Charges>COMMEUR200</Charges>
+<TotalAmountClaimedB>EUR95200,</TotalAmountClaimedB>
+<AccountWithBankA>DEUTDEFF</AccountWithBankA>
+<BeneficiaryBankA>/700-373473#DEUTDEMM</BeneficiaryBankA>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+</reqMT>

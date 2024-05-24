@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>999</MessageType>
+<Receiver>ABOCCNBJ150</Receiver>
+<TransactionReferenceNumber>IBA-792-220001</TransactionReferenceNumber>
+<RelatedReference>REF880978675</RelatedReference>
+<Narrative>KINDLY TREAT THIS MESSAGE AS MT-734 SINCE WE DO NOT HAVE DIRECT RMA WITH YOUR GOOD BANK.. 20 : IBA-792-220001 21 : REF880978675 32A : 22-07-13 USD 2,600,000.0077J :THIS IS 999 ACC,DISCREPANT MESSAGE,THANKS AND REGARDS,,BHUPENDRA SINGH,.,WE REFUSE TO HONOR THE DOCUMENTS DUE TO,DISCREPANCIES.,OUR LC NO. ILC-792-190010,77B : NOTIFY,REGARDS,,MIZUHO BANK LTD MUMBAI</Narrative>
+</reqMT>

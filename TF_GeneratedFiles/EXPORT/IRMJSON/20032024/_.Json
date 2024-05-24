@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"",
+  "irmList": [
+    {
+      "bankRefNumber":"",
+      "irmIssueDate":"19032024",
+      "irmNumber":"BLA/792/235039",
+      "irmStatus":"",
+      "ifscCode":"",
+      "remittanceAdCode":"",
+      "remittanceDate":"19032024",
+      "remittanceFCC":"EUR",
+      "remittanceFCAmount": 650.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"",
+      "panNumber":"",
+      "remitterName":"GREENBRIER INTERNATIONAL INC.",
+      "remitterCountry":"US",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005320801202400004",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/050666",
+      "irmIssueDate":"08012024",
+      "irmNumber":"ITT/792/050666",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"05012024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 8000.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"GRUPO TODO A DOLLAR S.A.",
+      "remitterCountry":"PA",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

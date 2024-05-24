@@ -1,0 +1,16 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>202</MessageType>
+<Receiver>MHCBJPJT</Receiver>
+<TransactionReferenceNumber>ICA792210003</TransactionReferenceNumber>
+<RelatedReference>JPY-210003</RelatedReference>
+<TimeIndication></TimeIndication>
+<ValueDate>220707JPY678456,</ValueDate>
+<OrderingInstitutionD>BHUPEN SINGH#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</OrderingInstitutionD>
+<SendersCorrespondentD>LMCC#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</SendersCorrespondentD>
+<ReceiversCorrespondentD>BHUPEN SINGH#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</ReceiversCorrespondentD>
+<IntermediaryD>LMCC#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</IntermediaryD>
+<AccountWithInstitutionD>#BHUPEN SINGH#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</AccountWithInstitutionD>
+<BeneficiaryInstitutionD>#LMCC#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</BeneficiaryInstitutionD>
+<SendertoReceiverInformation>/BNF/IMPORT BILL SETTLEMENT#//OUR REF NO ICA-792-210003</SendertoReceiverInformation>
+</reqMT>

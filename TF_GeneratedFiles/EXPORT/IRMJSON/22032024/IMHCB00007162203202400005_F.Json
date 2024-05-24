@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00007162203202400005",
+  "irmList": [
+    {
+      "bankRefNumber":"BCA/716/235008",
+      "irmIssueDate":"22032024",
+      "irmNumber":"BCA/716/235008",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000716",
+      "remittanceAdCode":"6770003",
+      "remittanceDate":"22032024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 640.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0788001108",
+      "panNumber":"AACCK4472B",
+      "remitterName":"MALE AERATED WATER COMPANY PVT LTD",
+      "remitterCountry":"MV",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":"H10716000963"
+    }
+  ]
+}

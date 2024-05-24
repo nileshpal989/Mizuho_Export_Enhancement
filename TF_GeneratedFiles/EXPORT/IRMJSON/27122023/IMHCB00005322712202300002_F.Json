@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005322712202300002",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/064369",
+      "irmIssueDate":"27122023",
+      "irmNumber":"ITT/792/064369",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"27122023",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 275000.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0814003836",
+      "panNumber":"AAFCC6751J",
+      "remitterName":"UAB TOYO INK EUROPE BALTICA",
+      "remitterCountry":"LT",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102626"
+    }
+  ]
+}

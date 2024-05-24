@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005320801202400003",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/056800",
+      "irmIssueDate":"08012024",
+      "irmNumber":"ITT/792/056800",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"05012024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 14185.88,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"PT.NIPRO INDONESIA JAYA",
+      "remitterCountry":"ID",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

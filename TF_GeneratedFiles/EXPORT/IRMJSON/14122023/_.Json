@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"",
+  "irmList": [
+    {
+      "bankRefNumber":"",
+      "irmIssueDate":"16092023",
+      "irmNumber":"BLA/792/235035",
+      "irmStatus":"",
+      "ifscCode":"",
+      "remittanceAdCode":"",
+      "remittanceDate":"16092023",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 15000.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"",
+      "panNumber":"",
+      "remitterName":"MALE AERATED WATER COMPANY PVT LTD",
+      "remitterCountry":"MV",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bank>
+<checkSum>
+<noOfShippingBills>1</noOfShippingBills>
+</checkSum>
+<shippingBills>
+<shippingBill>
+<portCode>INSNF6</portCode>
+<exportType>1</exportType>
+<recordIndicator>1</recordIndicator>
+<shippingBillNo>3109256</shippingBillNo>
+<shippingBillDate>10/08/2023</shippingBillDate>
+<formNo></formNo>
+<LEODate>11/08/2023</LEODate>
+<IECode>0913023256</IECode>
+<changedIECode/>
+<adCode>6770001</adCode>
+<adExportAgency>1</adExportAgency>
+<directDispatchIndicator>1</directDispatchIndicator>
+<adBillNo>EB/792/236005</adBillNo>
+<dateOfNegotiation></dateOfNegotiation>
+<buyerName>TOSHIBA TRADING INCORPORATED</buyerName>
+<buyerCountry>JP</buyerCountry>
+</shippingBill>
+</shippingBills>
+</bank>

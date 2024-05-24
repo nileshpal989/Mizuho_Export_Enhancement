@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>999</MessageType>
+<Receiver>ABOCCNBJ100</Receiver>
+<TransactionReferenceNumber>ACC-792-220001</TransactionReferenceNumber>
+<RelatedReference>REF876889</RelatedReference>
+<Narrative>KINDLY TREAT THIS MESSAGE AS MT-734 SINCE WE DO NOT HAVE DIRECT RMA WITH YOUR GOOD BANK.. 20:ACC-792-220001# 21:REF876889#32A:22-07-18 USD 20,000.00#77J:1.LC EXPIRED,2. LATE SHIPEMNT,3.TESTING,.,WE REFUSE TO HONOR THE DOCUMENTS DUE TO,DISCREPANCIES.,OUR LC NO. ILC-792-190005,#77B:#HOLD,REGARDS,,MIZUHO BANK LTD MUMBAI</Narrative>
+</reqMT>

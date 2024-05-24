@@ -1,0 +1,28 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>103</MessageType>
+<Receiver>CHASUS33</Receiver>
+<SendersReference>ICA-792-190028</SendersReference>
+<TimeIndication></TimeIndication>
+<BankOperationCode>CRED</BankOperationCode>
+<InstructionCode></InstructionCode>
+<TransactionTypeCode></TransactionTypeCode>
+<ValueDate>220624AUD9999999,99</ValueDate>
+<CurrencyInstructedAmount>USD1000,</CurrencyInstructedAmount>
+<ExchangeRate>1,60</ExchangeRate>
+<OrderingCustomerK>/H10792989271#NILESH PAL MUMBAI#ANDHERI MUMBAI</OrderingCustomerK>
+<SendingInstitution></SendingInstitution>
+<OrderingInstitutionA></OrderingInstitutionA>
+<SendersCorrespondentA>/1000000987654567</SendersCorrespondentA>
+<ReceiversCorrespondentB>/1000000987654567</ReceiversCorrespondentB>
+<ThirdReimbursementD>/1000098978765786</ThirdReimbursementD>
+<IntermediaryInstitutionA>/1000000987654567</IntermediaryInstitutionA>
+<AccountWithInstitutionC>/1000000000000000897653434</AccountWithInstitutionC>
+<BeneficiaryCustomerF>/1234560986#1/BHUPENDRA SINGH#2/ANDHERI EAST#3/IN/ INDIA</BeneficiaryCustomerF>
+<RemittanceInformation>/BNF/IMPORT BILL SETTLEMENT#//INVOICE NO.INV789456123</RemittanceInformation>
+<DetailsofCharges>BEN</DetailsofCharges>
+<SendersCharges>USD1000,</SendersCharges>
+<ReceiversCharges></ReceiversCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<RegulatoryReporting></RegulatoryReporting>
+</reqMT>

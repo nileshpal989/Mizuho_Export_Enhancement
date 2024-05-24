@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00007162103202400004",
+  "irmList": [
+    {
+      "bankRefNumber":"BCU/716/235007",
+      "irmIssueDate":"21032024",
+      "irmNumber":"BCU/716/235007",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000716",
+      "remittanceAdCode":"6770003",
+      "remittanceDate":"21032024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 37084.15,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0791000770",
+      "panNumber":"AABCM1458Q",
+      "remitterName":"SIAM MUSIC YAMAHA CO LTD",
+      "remitterCountry":"",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":"H10716000654"
+    }
+  ]
+}

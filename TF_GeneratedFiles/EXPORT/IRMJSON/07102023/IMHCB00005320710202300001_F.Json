@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005320710202300001",
+  "irmList": [
+    {
+      "bankRefNumber":"BLA/792/23503801",
+      "irmIssueDate":"07102023",
+      "irmNumber":"BLA/792/23503801",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"07102023",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 33357.93,
+      "inrCreditAmount": 33358.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"CHHATTISGARH-WR TRANSMISSION LIMITED",
+      "remitterCountry":"IN",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

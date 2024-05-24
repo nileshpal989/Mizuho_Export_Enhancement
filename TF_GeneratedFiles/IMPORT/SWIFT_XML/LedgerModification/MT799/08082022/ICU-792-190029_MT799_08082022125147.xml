@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>799</MessageType>
+<Receiver>BKCHCNBJ500</Receiver>
+<TransactionReferenceNumber>ICU-792-190029</TransactionReferenceNumber>
+<RelatedReference>TRFN897878979987</RelatedReference>
+<Narrative>MT</Narrative>
+</reqMT>

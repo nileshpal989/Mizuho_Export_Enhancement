@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005321303202400015",
+  "irmList": [
+    {
+      "bankRefNumber":"BLA/792/235039",
+      "irmIssueDate":"13032024",
+      "irmNumber":"BLA/792/235039",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"13032024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 500.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"GREENBRIER INTERNATIONAL INC.",
+      "remitterCountry":"US",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

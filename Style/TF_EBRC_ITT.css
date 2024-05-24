@@ -1,0 +1,69 @@
+﻿/*For UPLOAD */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    z-index: 99;
+    -moz-opacity: 0.8;
+    min-height: 100%;
+    width: 100%;
+}
+
+.loading {
+    font-family: Arial;
+    font-size: 10pt;
+    border: 5px solid navy;
+    width: 400px;
+    height: 40px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 999;
+}
+/*For Validation */
+.modalValidate {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    z-index: 99;
+    -moz-opacity: 0.8;
+    min-height: 100%;
+    width: 100%;
+}
+
+.loadingValidate {
+    font-family: Arial;
+    font-size: 10pt;
+    border: 5px solid navy;
+    width: 400px;
+    height: 40px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 999;
+}
+/*For Process */
+.modalProcess {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    z-index: 99;
+    -moz-opacity: 0.8;
+    min-height: 100%;
+    width: 100%;
+}
+
+.loadingProcess {
+    font-family: Arial;
+    font-size: 10pt;
+    border: 5px solid navy;
+    width: 400px;
+    height: 40px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 999;
+}

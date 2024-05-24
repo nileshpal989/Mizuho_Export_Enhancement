@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005321103202400011",
+  "irmList": [
+    {
+      "bankRefNumber":"BCU/792/235010",
+      "irmIssueDate":"11032024",
+      "irmNumber":"BCU/792/235010",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"11032024",
+      "remittanceFCC":"EUR",
+      "remittanceFCAmount": 300.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0307085279",
+      "panNumber":"",
+      "remitterName":"ALLIANCE (HK) ENTERPRISE LIMITED",
+      "remitterCountry":"HK",
+      "purposeOfRemittance":"P0102",
+      "bankAccountNo":""
+    }
+  ]
+}

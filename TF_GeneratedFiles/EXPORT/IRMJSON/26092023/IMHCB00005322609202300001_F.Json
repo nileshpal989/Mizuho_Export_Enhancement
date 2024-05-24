@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005322609202300001",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/556535",
+      "irmIssueDate":"26092023",
+      "irmNumber":"ITT/792/556535",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"11082023",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 500.00,
+      "inrCreditAmount": 5000.00,
+      "iecCode":"0300009569",
+      "panNumber":"AAECS3750L",
+      "remitterName":"ISUZU MOTORS CO THAILAND LTD",
+      "remitterCountry":"TH",
+      "purposeOfRemittance":"P0008",
+      "bankAccountNo":"H10792100446"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>202</MessageType>
+<Receiver>CHASUS33</Receiver>
+<TransactionReferenceNumber>ICA792210014</TransactionReferenceNumber>
+<RelatedReference>SDGJJKJJ34536576</RelatedReference>
+<TimeIndication></TimeIndication>
+<ValueDate>220625USD1000,</ValueDate>
+<OrderingInstitutionA></OrderingInstitutionA>
+<SendersCorrespondentA></SendersCorrespondentA>
+<ReceiversCorrespondentA></ReceiversCorrespondentA>
+<IntermediaryD>BHUPENDRA SINGH#54, APOLLO INDUSTRY#ANDHERI EAST#MUMBAI 400093</IntermediaryD>
+<AccountWithInstitutionD>/10000098765434567#BHUPENDRA SINGH#54, APOLLO INDUSTRY#ANDHERI EAST#MUMBAI 400093</AccountWithInstitutionD>
+<BeneficiaryInstitutionA>MHCBMMB</BeneficiaryInstitutionA>
+<SendertoReceiverInformation>/BNF/IMPORT BILL SETTLEMENT#//OUR REF NO ICA-792-210014#//SDGJJKJJ345365767477</SendertoReceiverInformation>
+</reqMT>

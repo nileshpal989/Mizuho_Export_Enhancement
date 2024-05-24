@@ -1,0 +1,16 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>202</MessageType>
+<Receiver>CHASUS33</Receiver>
+<TransactionReferenceNumber>ICA792210004</TransactionReferenceNumber>
+<RelatedReference>550-13-0490006</RelatedReference>
+<TimeIndication></TimeIndication>
+<ValueDate>220707USD25000,</ValueDate>
+<OrderingInstitutionA>MHCBMMB</OrderingInstitutionA>
+<SendersCorrespondentA>MHCBMMB</SendersCorrespondentA>
+<ReceiversCorrespondentA>MHCBMMB</ReceiversCorrespondentA>
+<IntermediaryA>MHCBMMB</IntermediaryA>
+<AccountWithInstitutionA>MHCBMMB</AccountWithInstitutionA>
+<BeneficiaryInstitutionA>MHCBMMB</BeneficiaryInstitutionA>
+<SendertoReceiverInformation>/BNF/IMPORT BILL SETTLEMENT#//OUR REF NO ICA-792-210004</SendertoReceiverInformation>
+</reqMT>

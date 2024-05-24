@@ -1,0 +1,28 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>103</MessageType>
+<Receiver>MHCBGB2L</Receiver>
+<SendersReference>ACC-792-200018</SendersReference>
+<TimeIndication></TimeIndication>
+<BankOperationCode>CRED</BankOperationCode>
+<InstructionCode></InstructionCode>
+<TransactionTypeCode></TransactionTypeCode>
+<ValueDate>220707GBP90000,99</ValueDate>
+<CurrencyInstructedAmount>USD80,</CurrencyInstructedAmount>
+<ExchangeRate>78,25</ExchangeRate>
+<OrderingCustomerA>/H10716401478#MHCBINBB</OrderingCustomerA>
+<SendingInstitution></SendingInstitution>
+<OrderingInstitutionA></OrderingInstitutionA>
+<SendersCorrespondentA></SendersCorrespondentA>
+<ReceiversCorrespondentA></ReceiversCorrespondentA>
+<ThirdReimbursementA></ThirdReimbursementA>
+<IntermediaryInstitutionA></IntermediaryInstitutionA>
+<AccountWithInstitutionA></AccountWithInstitutionA>
+<BeneficiaryCustomerA>/00325852123#MHCBGB2L</BeneficiaryCustomerA>
+<RemittanceInformation>/BNF/IMPORT BILL SETTLEMENT#//INVOICE NO.INV4125478</RemittanceInformation>
+<DetailsofCharges>SHA</DetailsofCharges>
+<SendersCharges>USD80,</SendersCharges>
+<ReceiversCharges></ReceiversCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<RegulatoryReporting></RegulatoryReporting>
+</reqMT>

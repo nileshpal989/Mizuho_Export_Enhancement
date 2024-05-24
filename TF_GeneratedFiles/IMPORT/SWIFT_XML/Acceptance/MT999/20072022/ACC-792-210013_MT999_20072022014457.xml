@@ -1,0 +1,8 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>999</MessageType>
+<Receiver>ABOCCNBJ100</Receiver>
+<TransactionReferenceNumber>ACC-792-210013</TransactionReferenceNumber>
+<RelatedReference>REF87667686</RelatedReference>
+<Narrative>KINDLY TREAT THIS MESSAGE AS MT-756 AS WE DO NOT HAVE RMA WITH YOUR GOOD BANK.. 20: ACC-792-210013 21: REF87667686 32B: USD 10000 33A: 21-07-12 USD 99920.00 53A: MHCBUS33 MIZUHO BANK LTD, NY 72Z: OUR LC REF NO. ILC-792-190001,ON MATURITY DATE WE AUTHORISE YOU,TO CLAIM REIMBURSEMENT LESS,DISCREPANCY LESS ,AS PER LC TERMS.</Narrative>
+</reqMT>

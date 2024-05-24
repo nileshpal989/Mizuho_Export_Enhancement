@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005321001202400001",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/056801",
+      "irmIssueDate":"10012024",
+      "irmNumber":"ITT/792/056801",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"05012024",
+      "remittanceFCC":"USD",
+      "remittanceFCAmount": 250875.00,
+      "inrCreditAmount": 0.00,
+      "iecCode":"0313060835",
+      "panNumber":"AAFCK3509A",
+      "remitterName":"LA MENAGERE S.A",
+      "remitterCountry":"HT",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102341"
+    }
+  ]
+}

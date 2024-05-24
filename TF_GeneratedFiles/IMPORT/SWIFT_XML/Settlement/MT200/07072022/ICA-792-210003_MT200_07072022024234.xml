@@ -1,0 +1,11 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>200</MessageType>
+<Receiver>MHCBUS33</Receiver>
+<TransactionReferenceNumber>ITT-792-220001</TransactionReferenceNumber>
+<ValueDate>220707JPY1000,</ValueDate>
+<SendersCorrespondent></SendersCorrespondent>
+<IntermediaryD>BHUPEN SINGH#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</IntermediaryD>
+<AccountWithInstitutionD>LMCC#GALA NO 54,MAHAKALI#ANDHERI EAST#MUMBAI-400001, INDIA</AccountWithInstitutionD>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+</reqMT>

@@ -1,0 +1,28 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>103</MessageType>
+<Receiver>CHASUS33</Receiver>
+<SendersReference>ICA-792-210013</SendersReference>
+<TimeIndication></TimeIndication>
+<BankOperationCode>CRED</BankOperationCode>
+<InstructionCode></InstructionCode>
+<TransactionTypeCode></TransactionTypeCode>
+<ValueDate>220629SGD15000,</ValueDate>
+<CurrencyInstructedAmount>SGD15000,</CurrencyInstructedAmount>
+<ExchangeRate>0,</ExchangeRate>
+<OrderingCustomerA>MHCBMMB</OrderingCustomerA>
+<SendingInstitution></SendingInstitution>
+<OrderingInstitutionA></OrderingInstitutionA>
+<SendersCorrespondentA></SendersCorrespondentA>
+<ReceiversCorrespondentA></ReceiversCorrespondentA>
+<ThirdReimbursementA></ThirdReimbursementA>
+<IntermediaryInstitutionA>MHCBMMB</IntermediaryInstitutionA>
+<AccountWithInstitutionA>MHCBMMB</AccountWithInstitutionA>
+<BeneficiaryCustomerF>#1/BHUPENDRA SINGH#2/ANDHERI(EAST)#3/IN/MUMBAI</BeneficiaryCustomerF>
+<RemittanceInformation>/BNF/BENEFICIARY INSTITUTION#//INVOICE NO AJKJHJ987</RemittanceInformation>
+<DetailsofCharges>SHA</DetailsofCharges>
+<SendersCharges>0,</SendersCharges>
+<ReceiversCharges></ReceiversCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<RegulatoryReporting></RegulatoryReporting>
+</reqMT>

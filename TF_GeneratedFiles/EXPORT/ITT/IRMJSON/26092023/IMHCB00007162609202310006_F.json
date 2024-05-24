@@ -1,0 +1,23 @@
+{
+  "uniqueTxId": "IMHCB00007162609202310006",
+  "irmList": [
+    {
+      "bankRefNumber": "ITT716014261",
+      "irmIssueDate": "01082023",
+      "irmNumber": "ITT716014261",
+      "irmStatus": "F",
+      "ifscCode": "MHCB0000716",
+      "remittanceAdCode": "6770003",
+      "remittanceDate": "01082023",
+      "remittanceFCC": "INR",
+      "remittanceFCAmount": 1124376.0,
+      "inrCreditAmount": 1124376.0,
+      "iecCode": "713021900",
+      "panNumber": "AAECT6235B",
+      "remitterName": "TSUJIKAWACOLTD",
+      "remitterCountry": "JP",
+      "purposeOfRemittance": "P1306",
+      "bankAccountNo": "H10716000044"
+    }
+  ]
+}

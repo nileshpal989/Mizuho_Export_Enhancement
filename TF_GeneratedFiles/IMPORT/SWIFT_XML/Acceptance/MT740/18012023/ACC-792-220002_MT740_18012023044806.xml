@@ -1,0 +1,23 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>740</MessageType>
+<Receiver>MHCBUS33</Receiver>
+<DocumentaryCreditNumber>ILC-792-190006</DocumentaryCreditNumber>
+<AccountIdentification>H79-740-733000</AccountIdentification>
+<ApplicableRules>URR LATEST VERSION</ApplicableRules>
+<DateandPlaceofExpiry>18/01/2023MUMBAI</DateandPlaceofExpiry>
+<NegotiatingBankA>MHCBMMB</NegotiatingBankA>
+<Beneficiary></Beneficiary>
+<CreditAmount>USD12355,</CreditAmount>
+<PercentageCreditAmountTolerance>10/10</PercentageCreditAmountTolerance>
+<MaximumCreditAmount></MaximumCreditAmount>
+<AdditionalAmountsCovered>ADDITIONAL AMOUNTS COVERED1,ADDITIONAL AMOUNTS COVERED2,ADDITIONAL AMOUNTS COVERED3,ADDITIONAL AMOUNTS COVERED4</AdditionalAmountsCovered>
+<AvailableWithByD>ANY BANK IN INDIA#BY NEGOTIATION</AvailableWithByD>
+<Draftsat>DRAFTSAT1</Draftsat>
+<DraweeA>100000000000000#MHCBMMB</DraweeA>
+<MixedPaymentDetails></MixedPaymentDetails>
+<DeferredPaymentDetails>DEFERRED PAYMENT DETAILS,DEFERRED PAYMENT DETAILS2,DEFERRED PAYMENT DETAILS3,DEFERRED PAYMENT DETAILS4</DeferredPaymentDetails>
+<ReimbursingBankCharges>18</ReimbursingBankCharges>
+<OtherCharges>OTHER CHARGES,OTHER CHARGES2,OTHER CHARGES3,OTHER CHARGES4,OTHER CHARGES5,OTHER CHARGES6</OtherCharges>
+<SendertoReceiverInformation>SENDER TO RECEIVER INFORMATION,SENDER TO RECEIVER INFORMATION2,SENDER TO RECEIVER INFORMATION3,SENDER TO RECEIVER INFORMATION4,SENDER TO RECEIVER INFORMATION5,SENDER TO RECEIVER INFORMATION</SendertoReceiverInformation>
+</reqMT>

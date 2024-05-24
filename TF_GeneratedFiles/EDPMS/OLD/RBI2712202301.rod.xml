@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bank>
+<checkSum>
+<noOfShippingBills>1</noOfShippingBills>
+</checkSum>
+<shippingBills>
+<shippingBill>
+<portCode>INHZA1</portCode>
+<exportType>1</exportType>
+<recordIndicator>1</recordIndicator>
+<shippingBillNo>4848328</shippingBillNo>
+<shippingBillDate>23/10/2023</shippingBillDate>
+<formNo></formNo>
+<LEODate>26/10/2023</LEODate>
+<IECode>0814003836</IECode>
+<changedIECode/>
+<adCode>6770001</adCode>
+<adExportAgency>1</adExportAgency>
+<directDispatchIndicator>1</directDispatchIndicator>
+<adBillNo>EB/792/236006</adBillNo>
+<dateOfNegotiation></dateOfNegotiation>
+<buyerName>DANKE ELECTRICALS LIMITED</buyerName>
+<buyerCountry>JP</buyerCountry>
+</shippingBill>
+</shippingBills>
+</bank>

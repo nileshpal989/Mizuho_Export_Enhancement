@@ -1,0 +1,14 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>734</MessageType>
+<Receiver>ABOCCNBJ150</Receiver>
+<SendersTRN>ACC-792-210018</SendersTRN>
+<PresentingBanksReference>YYC2101020E134</PresentingBanksReference>
+<DateAmtofUtilisation>220824USD100,</DateAmtofUtilisation>
+<ChargesClaimed></ChargesClaimed>
+<TotalAmountClaimedA></TotalAmountClaimedA>
+<AccountWithBankA></AccountWithBankA>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<Discrepancies>1.INVOIC AND PACKING LIST,2.BILL OF LANDING,.,WE REFUSE TO HONOR THE DOCUMENTS DUE TO,DISCREPANCIES.,OUR LC NO. ILC-792-190006</Discrepancies>
+<DisposalofDocuments>/HOLD/</DisposalofDocuments>
+</reqMT>

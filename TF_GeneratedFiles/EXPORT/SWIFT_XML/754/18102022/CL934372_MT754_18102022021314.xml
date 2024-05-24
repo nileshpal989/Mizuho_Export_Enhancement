@@ -1,0 +1,17 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>754</MessageType>
+<Receiver>CHEMUS33</Receiver>
+<SendersReference>CL934372</SendersReference>
+<RelatedReference>IMP 693/70224</RelatedReference>
+<PrincipalAmountA>210304EUR95000,</PrincipalAmountA>
+<AdditionalAmounts></AdditionalAmounts>
+<ChargesDeducted>COMMISSION EUR200</ChargesDeducted>
+<ChargesAdded></ChargesAdded>
+<TotalAmountClaimedA>210304EUR95200,</TotalAmountClaimedA>
+<ReimbursingBankA>CHEMDEFF</ReimbursingBankA>
+<AccountWithBankA></AccountWithBankA>
+<BeneficiaryBankA></BeneficiaryBankA>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+<Narrative></Narrative>
+</reqMT>

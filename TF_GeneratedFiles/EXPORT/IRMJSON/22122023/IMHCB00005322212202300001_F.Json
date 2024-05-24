@@ -1,0 +1,23 @@
+{
+  "uniqueTxId":"IMHCB00005322212202300001",
+  "irmList": [
+    {
+      "bankRefNumber":"ITT/792/053653",
+      "irmIssueDate":"22122023",
+      "irmNumber":"ITT/792/053653",
+      "irmStatus":"F",
+      "ifscCode":"MHCB0000532",
+      "remittanceAdCode":"6770001",
+      "remittanceDate":"22122023",
+      "remittanceFCC":"GBP",
+      "remittanceFCAmount": 96896.30,
+      "inrCreditAmount": 9596610.00,
+      "iecCode":"0913023256",
+      "panNumber":"AAECT6883F",
+      "remitterName":"UK POWER NETWORKS (OPERATIONS) LTD",
+      "remitterCountry":"GB",
+      "purposeOfRemittance":"P0103",
+      "bankAccountNo":"H10792102367"
+    }
+  ]
+}

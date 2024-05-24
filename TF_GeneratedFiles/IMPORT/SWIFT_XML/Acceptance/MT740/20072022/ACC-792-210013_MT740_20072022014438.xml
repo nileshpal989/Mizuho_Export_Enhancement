@@ -1,0 +1,23 @@
+<reqMT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://gbase.mizuho.co.jp">
+<Sender>MHCBINBB</Sender>
+<MessageType>740</MessageType>
+<Receiver>MHCBUS33</Receiver>
+<DocumentaryCreditNumber>ILC-792-190001</DocumentaryCreditNumber>
+<AccountIdentification>H79-740-733000</AccountIdentification>
+<ApplicableRules>URR LATEST VERSION</ApplicableRules>
+<DateandPlaceofExpiry></DateandPlaceofExpiry>
+<NegotiatingBankA></NegotiatingBankA>
+<Beneficiary></Beneficiary>
+<CreditAmount>USD10000,</CreditAmount>
+<PercentageCreditAmountTolerance></PercentageCreditAmountTolerance>
+<MaximumCreditAmount></MaximumCreditAmount>
+<AdditionalAmountsCovered></AdditionalAmountsCovered>
+<AvailableWithByA>txnfmb41a</AvailableWithByA>
+<Draftsat>txnfmb42c</Draftsat>
+<DraweeA>txnfmb42a</DraweeA>
+<MixedPaymentDetails></MixedPaymentDetails>
+<DeferredPaymentDetails></DeferredPaymentDetails>
+<ReimbursingBankCharges></ReimbursingBankCharges>
+<OtherCharges></OtherCharges>
+<SendertoReceiverInformation></SendertoReceiverInformation>
+</reqMT>
